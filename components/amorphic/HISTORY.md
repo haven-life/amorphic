@@ -1,3 +1,5 @@
+## 8.2.1
+* Replaced realistic hardcoded session secrets in test files with a test string
 ## 8.2.0
 * for safety, stop amorphic from starting up if certain conditions aren't met
 ## 8.1.1

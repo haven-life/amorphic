@@ -1,7 +1,7 @@
 {
     "sessionSeconds" : 3600,
     "objectCacheSeconds" : 600,
-    "sessionSecret" : "Ey0veeljPcLsHitdxCG2",
+    "sessionSecret" : "testSessionSecret",
     "applications" : {
         "daemon_secure": "apps/daemon_secure"
     },

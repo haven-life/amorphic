@@ -2,7 +2,7 @@
     "port": 3001,
     "sessionSeconds" : 3600,
     "objectCacheSeconds" : 600,
-    "sessionSecret" : "Ey0veeljPcLsHitdxCG2",
+    "sessionSecret" : "testSessionSecret",
     "applications" : {
         "daemon": "apps/daemon"
     },
